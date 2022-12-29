@@ -24,4 +24,4 @@
 
 | Level | Project name | Mark |
 |:-----:|:-------------|:----:|
-| **02** | [Exam Rank 02](#) | [![psegura-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2782809)](#)
+| **3** | [Exam Rank 02](#) | [![psegura-'s 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2782809)](#)

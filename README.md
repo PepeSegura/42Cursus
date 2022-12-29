@@ -14,7 +14,7 @@
 
 | Level | Project name | Mark |
 |:-----:|:-------------|:----:|
-| **1** A | [Libft](https://github.com/PepeSegura/libft) | [![psegura-'s 42 Libft Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2620022)](https://github.com/PepeSegura/libft)
+| **1** A | [libft](https://github.com/PepeSegura/libft) | [![psegura-'s 42 Libft Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2620022)](https://github.com/PepeSegura/libft)
 | **2** A | [printf](https://github.com/PepeSegura/Printf) | [![psegura-'s 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2673909)](https://github.com/PepeSegura/Printf)
 | **2** B | [get_next_line](https://github.com/PepeSegura/get_next_line) | [![psegura-'s 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2721349)](https://github.com/PepeSegura/get_next_line)
 | **2** C | [born2beroot](https://github.com/PepeSegura/Born2beroot) | [![psegura-'s 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2684168)](https://github.com/PepeSegura/Born2beroot)

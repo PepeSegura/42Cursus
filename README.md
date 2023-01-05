@@ -7,7 +7,7 @@
 
 | Level | Project name | Status |
 |:---:|:---:|:---:|
-| **3 C** | [push_swap](https://github.com/PepeSegura/push_swap) | ⏳ In progress |
+| **3 C** | [philosophers](https://github.com/PepeSegura/philosophers) | ⏳ In progress |
 
 <h2>Finished projects</h2>
 
@@ -21,8 +21,8 @@
 | **3** A | [so_long](https://github.com/PepeSegura/so_long) | [![psegura-'s 42 so_long Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2823739)](https://github.com/PepeSegura/so_long)
 | **3** B | [pipex](https://github.com/PepeSegura/pipex) | [![psegura-'s 42 pipex Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2885447)](https://github.com/PepeSegura/pipex)
 | **3** C | [push_swap](https://github.com/PepeSegura/push_swap) | [![psegura-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2918100)](https://github.com/PepeSegura/push_swap)
-| **4** A | [push_swap](https://github.com/PepeSegura/push_swap) | [![psegura-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2918100)](https://github.com/PepeSegura/push_swap)
-| **4** B | [push_swap](https://github.com/PepeSegura/push_swap) | [![psegura-'s 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2918100)](https://github.com/PepeSegura/push_swap)
+| **4** A | [philosophers](https://github.com/PepeSegura/philosophers) | [![psegura-'s 42 philosophers Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2918100)](https://github.com/PepeSegura/philosophers)
+| **4** B | [minishell](https://github.com/PepeSegura/minishell) | [![psegura-'s 42 minishell Score](https://badge42.vercel.app/api/v2/cl4vhf07q009309meq23tthiv/project/2918100)](https://github.com/PepeSegura/minishell)
 
 | Level | Project name | Mark |
 |:-----:|:-------------|:----:|

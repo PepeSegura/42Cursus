@@ -7,7 +7,7 @@
 
 | Level | Project name | Status |
 |:---:|:---:|:---:|
-| **4 A** | [minishell](https://github.com/Operation-Helsinki/minishell) | ⏳ In progress |
+| **4 B** | [minishell](https://github.com/Operation-Helsinki/minishell) | ⏳ In progress |
 
 <h2>Finished projects</h2>
 
